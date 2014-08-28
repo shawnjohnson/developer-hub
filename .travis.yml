@@ -7,6 +7,6 @@ rvm:
 
 
 branches:
-only:
-- gh-pages.
+  only:
+  - gh-pages.
 
